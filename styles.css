@@ -40,10 +40,16 @@ img {
 a {
     text-decoration: none;
     color: white;
-    transition: color 1s; 
+    transition: color 1s;
 }
 
 .bottom-text {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.p{
     text-align: center;
     margin-top: 40px;
     font-size: 20px;
